@@ -53,6 +53,7 @@ to detach it from this repo. Here is what you need to do:
 git init
 git add .
 git commit -m "Initial commit"
+npm run prepare
 </code></pre>
 
 ## Sharing data between SvelteKit and Phaser
